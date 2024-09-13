@@ -1,6 +1,7 @@
 Click
-SQLAlchemy
+sqlalchemy<2.0
 mlalchemy
+geoalchemy2
 pptree
 python-dotenv
 tabulate
