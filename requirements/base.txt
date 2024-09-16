@@ -2,7 +2,7 @@ Click
 sqlalchemy<2.0
 mlalchemy
 geoalchemy2
-geoalchemy2[shapely]
+shapely
 pptree
 python-dotenv
 tabulate
